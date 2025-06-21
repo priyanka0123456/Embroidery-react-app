@@ -1,4 +1,4 @@
-# 🧵 Sangeeta Embroidery - React App
+# 🧵  Embroidery - React App
 
 A beautiful and interactive embroidery store built with React.js.
 
